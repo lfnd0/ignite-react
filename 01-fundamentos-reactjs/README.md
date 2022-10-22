@@ -42,3 +42,20 @@
      - Back-end retorna dados em JSON a partir das requisições;
      - Ganhos de perfomance e manutenção dos projetos;
      - Reactjs, Angular, Vue, Svelte, Aurelia e etc.
+3. Link útil:
+   - [ReactJS](https://reactjs.org/)
+
+### Bundlers e compilers
+1. Compilers:
+   - São compiladores de código;
+   - Ferramentas de "conversão" de códigos em diversos outros formatos;
+   - Babel converte a "sintaxe atual" do JavaScript em sintaxe que o navegador "entenda".
+2. Bundlers:
+   - Responsável por permitir a importação de módulos JavaScript, que estão em arquivos diferentes;
+   - Webpack.
+3. Outras alternativas que não usam compilers/bundlers:
+   - Vite e Snowpack.
+4. Links úteis:
+   - [Babel](https://babeljs.io/)
+   - [Webpack](https://webpack.js.org/)
+   - [Vite](https://vitejs.dev/)
