@@ -18,7 +18,7 @@
    - Imutabilidade;
    - Hooks;
    - Fluxo de renderização;
-   - Estilizaçã;
+   - Estilização;
    - TypeScript.
 2. Projeto que será desenvolvido:
    - Ignite Feed;
@@ -59,3 +59,9 @@
    - [Babel](https://babeljs.io/)
    - [Webpack](https://webpack.js.org/)
    - [Vite](https://vitejs.dev/)
+
+### Criando um projeto ReactJS
+Links úteis:
+- [n](https://github.com/tj/n)
+- [Repositório do projeto](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/8da5cae)
+- [Getting started](https://vitejs.dev/guide/)
