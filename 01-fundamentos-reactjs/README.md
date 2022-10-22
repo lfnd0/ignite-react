@@ -61,9 +61,23 @@
    - [Vite](https://vitejs.dev/)
 
 ### Criando um projeto ReactJS
-- [Gerenciador de versão do Node.js](https://github.com/tj/n)
-- [Iniciando com o Vite](https://vitejs.dev/guide/)
-- [Repositório do projeto](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/8da5cae)
+1. Links úteis:
+   - [Gerenciador de versão do Node.js](https://github.com/tj/n)
+   - [Iniciando com o Vite](https://vitejs.dev/guide/)
+   - [Repositório do projeto](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/8da5cae)
+2. Lista de comandos:
+   - Criar um novo projeto:
+     ```shell
+     npm create vite@latest
+     ```
+   - Instalar as dependências:
+     ```shell
+     npm i
+     ```
+   - Executar:
+     ```shell
+     npm run dev
+     ```
 
 ### Componentes
 1. Definição:
@@ -82,3 +96,8 @@
    - Dentro do contexto do ReactJS, um atributo de um componente é chamado de propriedade;
    - Com uso dos componentes é possível reaproveitar o HTML, a estilização e o funcionamento do mesmo com o JavaScript;
    - As propriedades alteram elementos visuais de um componente, sem perder a flexibilidade.
+
+### CSS modules
+1. Links úteis:
+   - [CSS modules](https://github.com/css-modules/css-modules)
+   - [Vite/CSS modules](https://vitejs.dev/guide/features.html#css-modules)
