@@ -61,7 +61,16 @@
    - [Vite](https://vitejs.dev/)
 
 ### Criando um projeto ReactJS
-Links úteis:
-- [n](https://github.com/tj/n)
+- [Gerenciador de versão do Node.js](https://github.com/tj/n)
+- [Iniciando com o Vite](https://vitejs.dev/guide/)
 - [Repositório do projeto](https://github.com/rocketseat-education/ignite-reactjs-01-fundamentos-react/commit/8da5cae)
-- [Getting started](https://vitejs.dev/guide/)
+
+### Componentes
+1. Definição:
+   - Abordagem que permite desacoplar e reutilizar partes da interface da aplicação em diversos lugares no projeto;
+   - Contribui para a manutenção do código;
+   - Um componente é uma função que retorna um "elemento" em HTML;
+   - JSX (JavaScript e XML) contém a sintaxe de arquivos HTML;
+2. Default exports *vs* named exports:
+   - Default exports define o nome do componente durante a sua importação;
+   - Named exports define o nome do componente durante a sua exportação.
