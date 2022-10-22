@@ -1,3 +1,8 @@
-export function Post() {
-  return <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+export function Post(props) {
+  return (
+    <div>
+      <strong>{props.auth}</strong>
+      <p>{props.content}</p>
+    </div>
+  )
 }

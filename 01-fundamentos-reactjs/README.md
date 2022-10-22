@@ -41,7 +41,7 @@
      - O back-end não é o responsável pela criação do front-end;
      - Back-end retorna dados em JSON a partir das requisições;
      - Ganhos de perfomance e manutenção dos projetos;
-     - Reactjs, Angular, Vue, Svelte, Aurelia e etc.
+     - ReactJS, Angular, Vue, Svelte, Aurelia e etc.
 3. Link útil:
    - [ReactJS](https://reactjs.org/)
 
@@ -74,3 +74,11 @@
 2. Default exports *vs* named exports:
    - Default exports define o nome do componente durante a sua importação;
    - Named exports define o nome do componente durante a sua exportação.
+
+### Propriedades
+1. Definição:
+   - São informações que podem ser passadas para um componente.
+2. Pontos importantes:
+   - Dentro do contexto do ReactJS, um atributo de um componente é chamado de propriedade;
+   - Com uso dos componentes é possível reaproveitar o HTML, a estilização e o funcionamento do mesmo com o JavaScript;
+   - As propriedades alteram elementos visuais de um componente, sem perder a flexibilidade.
