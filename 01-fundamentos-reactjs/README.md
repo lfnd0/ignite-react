@@ -25,3 +25,20 @@
    - Uma "abstração" de uma rede social;
    - Posts, comentários e aplaudir;
    - Style guide no Figma.
+
+### Fundamentos do ReactJS
+1. O que é?
+   - Uma biblioteca front-end para construção de interfaces interativas;
+   - Interfaces web, mobile, dispositivos de Smart TV, realidade virtual e etc.
+2. Rendering Patterns (padrões de renderização):
+   - Início da internet as páginas eram estáticas, apenas com arquivos HTML.
+   - Server Side Rendering (SSR):
+     - Back-end e front-end são uma única aplicação;
+     - Servidor possui o back-end responsável pela construção do front-end;
+     - Ao receber uma requisição do usuário, o servidor processa esta requisição, e devolve arquivos HTML, CSS e JS.
+   - Single Page Applicartion (SPA):
+     - Back-end e front-end são aplicações diferentes e separadas;
+     - O back-end não é o responsável pela criação do front-end;
+     - Back-end retorna dados em JSON a partir das requisições;
+     - Ganhos de perfomance e manutenção dos projetos;
+     - Reactjs, Angular, Vue, Svelte, Aurelia e etc.
