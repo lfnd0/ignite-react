@@ -102,3 +102,9 @@
    - [CSS modules](https://github.com/css-modules/css-modules)
    - [Vite/CSS modules](https://vitejs.dev/guide/features.html#css-modules)
    - [Protótipo do Ignite Feed/Figma](https://www.figma.com/community/file/1113573231685349036)
+
+### Componente: Avatar
+1. Existem 2 momentos importantes para a criação de um componente:
+   - Quando há repetição de determinadas estruturas (lógica) nas telas;
+   - E quando é possível separar essas estruturas (lógica) de um componente maior, sem que este componente pare de funcionar.
+2. Don't Repeat Yourself (DRY).
